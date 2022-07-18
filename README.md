@@ -1,21 +1,5 @@
 <h1 align="center">PyPhisher</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Version-1.8-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/KasRoudra/pyphisher?style=for-the-badge&color=orange">
-  <img src="https://img.shields.io/github/forks/KasRoudra/pyphisher?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/watchers/KasRoudra/pyphisher?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/issues/KasRoudra/pyphisher?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/license/KasRoudra/pyphisher?style=for-the-badge&color=blue">   
-  <img src="https://hits.dwyl.com/KasRoudra/PyPhisher.svg" width="140" height="28">
-<br>
-<br>
-  <img src="https://img.shields.io/badge/Author-KasRoudra-purple?style=flat-square">
-  <img src="https://img.shields.io/badge/Open%20Source-80%25-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/Made%20in-Bangladesh-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
-  <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
-</p>
-
 
 ### [√] Description :
 
@@ -36,7 +20,7 @@
 
 ##### Clone this repository
 
- - ```git clone https://github.com/KasRoudra/PyPhisher```
+ - ```git clone https://github.com/tawsif344/T-Phisher```
 
 ##### Enter the directory
  - ```cd PyPhisher```
@@ -82,10 +66,6 @@ options:
  - URL Shadowing
  - Portable file (Can be run from any directory)
  - Get IP Address and many other details along with login credentials
-
-#### Relevant Tools by Me
- - [CamHacker](https://github.com/KasRoudra/CamHacker) for image phishing
- - [VidPhisher](https://github.com/KasRoudra/VidPhisher) for video phishing
 
 
 ### Requirements
